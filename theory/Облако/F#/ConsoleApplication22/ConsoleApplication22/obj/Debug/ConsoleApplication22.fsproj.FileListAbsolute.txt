@@ -1,0 +1,9 @@
+C:\Users\Juk.a.s\Documents\Visual Studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe.config
+C:\Users\Juk.a.s\Documents\Visual Studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.XML
+C:\Users\Juk.a.s\Documents\Visual Studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.exe
+C:\Users\Juk.a.s\Documents\Visual Studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ConsoleApplication22.pdb
+C:\Users\Juk.a.s\Documents\Visual Studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\FSharp.Core.dll
+C:\Users\Juk.a.s\Documents\Visual Studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\FSharp.Core.xml
+C:\Users\Juk.a.s\Documents\Visual Studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Juk.a.s\Documents\Visual Studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.exe
+C:\Users\Juk.a.s\Documents\Visual Studio 2013\Projects\ConsoleApplication22\ConsoleApplication22\obj\Debug\ConsoleApplication22.pdb

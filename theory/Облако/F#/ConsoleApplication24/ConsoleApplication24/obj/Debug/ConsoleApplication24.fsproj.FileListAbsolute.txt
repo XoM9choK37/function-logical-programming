@@ -1,0 +1,9 @@
+C:\Users\Juk.a.s\Documents\Visual Studio 2013\Projects\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe.config
+C:\Users\Juk.a.s\Documents\Visual Studio 2013\Projects\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.XML
+C:\Users\Juk.a.s\Documents\Visual Studio 2013\Projects\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.exe
+C:\Users\Juk.a.s\Documents\Visual Studio 2013\Projects\ConsoleApplication24\ConsoleApplication24\bin\Debug\ConsoleApplication24.pdb
+C:\Users\Juk.a.s\Documents\Visual Studio 2013\Projects\ConsoleApplication24\ConsoleApplication24\bin\Debug\FSharp.Core.dll
+C:\Users\Juk.a.s\Documents\Visual Studio 2013\Projects\ConsoleApplication24\ConsoleApplication24\bin\Debug\FSharp.Core.xml
+C:\Users\Juk.a.s\Documents\Visual Studio 2013\Projects\ConsoleApplication24\ConsoleApplication24\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Juk.a.s\Documents\Visual Studio 2013\Projects\ConsoleApplication24\ConsoleApplication24\obj\Debug\ConsoleApplication24.exe
+C:\Users\Juk.a.s\Documents\Visual Studio 2013\Projects\ConsoleApplication24\ConsoleApplication24\obj\Debug\ConsoleApplication24.pdb
